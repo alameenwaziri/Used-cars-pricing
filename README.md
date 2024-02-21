@@ -11,7 +11,7 @@ Data type: csv
 
 The project is divided into 5 sections:
 
-Importing the Dataset - Imported the dataset from a CSV file to a Pandas dataframe Develop some basic insights about the dataset
+Importing the Dataset - Imported the dataset from a CSV file to a Pandas dataframe to uncover some basic insights about the dataset
 
 Data Wrangling - Handled missing data in different ways. Corrected the data type of different data values as per requirement. Standardized and normalized the appropriate data attributes. Visualized the data as grouped bar graph using Binning. Converted a categorical data into numerical indicator variables.
 
@@ -21,7 +21,7 @@ Grouped the data based on identified parameters and created pivot tables.
 Identified the effect of independent attributes on price of cars.
 
 Model Development - 
-In this section, i developed several models that will predict the price of the car using the variables or features. The value i got was just an estimate but gave me an objective idea of how much the car should cost.
+In this section, I developed several models that will predict the price of the car using the variables or features. The value i got was just an estimate but gave me an objective idea of how much the car should cost.
 
 Some questions i had to ask were:
 
